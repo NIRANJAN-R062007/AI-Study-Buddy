@@ -73,9 +73,9 @@ Reduce dependency on multiple learning platforms
 
 👨‍💻 Contributors
 
-Niranjan R
-Mahesh T
-Chaining Ningshen
+Niranjan R,
+Mahesh T, 
+Chianing Ningshen A Sangma
 
 
 
