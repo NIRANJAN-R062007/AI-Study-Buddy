@@ -1,0 +1,56 @@
+:root {
+  /* ChatGPT Theme Colors */
+
+  /* Primary Colors */
+  --primary-color: #10a37f;
+  /* ChatGPT Green */
+  --primary-hover: #1a7f64;
+  --primary-light: #12b58e;
+  --primary-gradient: linear-gradient(135deg, #10a37f 0%, #0d8a6a 100%);
+
+  /* Secondary Colors */
+  --secondary-color: #202123;
+  /* Dark Sidebar Gray */
+  --secondary-gradient: linear-gradient(135deg, #202123 0%, #343541 100%);
+
+  /* Background Colors */
+  --bg-main: #343541;
+  /* ChatGPT Main Gray */
+  --bg-glass: rgba(52, 53, 65, 0.9);
+  --bg-card: #444654;
+  /* Lighter Gray for Cards/Response areas */
+  --bg-sidebar: #202123;
+  /* Darker Sidebar */
+
+  /* Text Colors */
+  --text-primary: #ececf1;
+  /* Off-white text */
+  --text-secondary: #c5c5d2;
+  --text-light: #8e8ea0;
+  --text-white: #ffffff;
+
+  /* Status Colors */
+  --success: #10a37f;
+  --warning: #eab308;
+  --error: #ef4444;
+  --info: #3b82f6;
+
+  /* Shadows & Effects */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  --shadow-glow: 0 0 15px rgba(16, 163, 127, 0.2);
+
+  --glass-border: 1px solid rgba(255, 255, 255, 0.1);
+  --glass-backdrop: blur(8px);
+
+  /* Spacing & Radius */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.375rem;
+  --radius-lg: 0.5rem;
+  --radius-xl: 0.75rem;
+
+  /* Transitions */
+  --transition-fast: 0.15s ease;
+  --transition-normal: 0.2s ease;
+}
